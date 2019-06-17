@@ -1,35 +1,24 @@
-Striped by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Free Site License:
+------------------
+
+CC 3.0 All of the site templates we create for WebThemez are licensed under the Creative Commons Attribution 4.0 License, which means you can:
+ - You can use our templates for both personal and commercial projects. 
+ - You are NOT allowed to remove the back link to WebThemez.com in templates unless you purchased a license. 
+ - You can update /modify/customize the website to fit your project needs. 
+ - You cannot claim credit or ownership for any of the files found on webthemez.com. 
+ - You cannot redistribute, resell, license, or sub-license any of the files found on webthemez.com. 
+
+ - No Support
+ - No Php files ( contact form does not work)
+ - No Updates
 
 
-And here's a new one: Striped, which features a clean, minimalistic design, styling for
-all basic page elements (including blockquotes, tables and lists), a repositionable
-sidebar (left or right), and HTML5/CSS3 code designed for quick and easy customization
-(see code comments for details).
+Credits :
+--------- 
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
+=> Design & developed: "WebThemez"  http://webthemez.com 
+=> Bootstrap : http://getbootstrap.com/
+=> Fontawesome : https://fortawesome.github.io/Font-Awesome/
+=> Fonts : https://www.google.com/fonts
+=> Images : https://unsplash.com/ , https://www.pexels.com/ and https://pixabay.com/
+=> Carousel : http://owlgraphic.com/owlcarousel/
